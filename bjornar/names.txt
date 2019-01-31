@@ -1,3 +1,5 @@
 Bjørnar W.
 Trym
+Dette er ett testprogram
 Henrik
+Henriette
